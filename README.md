@@ -6,3 +6,11 @@ Now, along with the feature vector, age and BIRADS density are included as a ris
 Area-related features are extracted after using Gaussian filter and threshold value to retrieve only bright (dense) pixel values.
 Two models are trained separately and the decision making probability is finally taken as the average of the two models.
 The output of the models are already taken from the BCDR website as whether the result is benign or malignant.
+
+
+
+
+
+
+
+XXX 0_(number) and 1_(number) files should be put under the file name Training_1 for this program to work.XXX
